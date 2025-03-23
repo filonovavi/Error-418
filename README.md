@@ -35,14 +35,13 @@ Work for hackathon S7 2025
    - [UVT Aero](https://uvtaero.ru/provoz-zhivotnyh)
    - [Smartavia](https://flysmartavia.com/info/passenger/pets/)
    - [Северсталь](https://severstal-avia.ru/search/?search=%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5)
-   - [Авиа35](https://avia35.ru/for-passengers/rules/)
+   - [Вологодское авиационное предприятие](https://avia35.ru/for-passengers/rules/)
    - [ЧукотАвиа](https://chukotavia.ru/images/users/Pravila_perozki_pass.pdf)
-   - [Кострома](http://kostroma-avia.ru/to_corporate_clients/catdog/)
+   - [Костромское авиапредприятие](http://kostroma-avia.ru/to_corporate_clients/catdog/)
    - [Хабавиа](http://khabavia.ru/%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D0%BA%D0%B8/)
    - [Ангара](https://angara.aero/handbook/regulations/transportation-animals/)
-   - [Толмачёво](https://tolmachevo.ru/passengers/rules/veterinary/)
    - [Ямал](https://yamalaero.ru/passengers/services/pets/)
-   - [AirSS](https://airss.mts-disk.ru/s/Ac9BsnHdMiinXL7)
+   - [Аэросервис](https://airss.mts-disk.ru/s/Ac9BsnHdMiinXL7)
 
 2. **`Error 418.xlsx`**  
    Таблица, содержащая структурированную информацию о правилах перевозки животных, основанную на данных из официальных источников.
